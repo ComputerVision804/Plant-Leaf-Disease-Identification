@@ -13,6 +13,9 @@ Streamlit (for the UI)
 TensorFlow/Keras (for the model)
 OpenCV & PIL (for image processing)
 NumPy & Pandas (for data handling)
+
+Dataset Download here link:
+https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset
 🔧 How to Run
 1️⃣ Clone the repository:
 
